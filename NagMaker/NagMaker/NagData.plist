@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>location</key>
+		<string>tv</string>
+		<key>location_Img_url</key>
+		<string>url</string>
+		<key>nagList</key>
+		<array>
+			<dict>
+				<key>nag_title</key>
+				<string>테레비 그만보렴</string>
+				<key>nag_answer_Y</key>
+				<string>잘했다</string>
+				<key>nag_answer_N</key>
+				<string>안끄냐</string>
+				<key>duration</key>
+				<integer>10</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
